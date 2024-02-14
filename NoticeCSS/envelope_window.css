@@ -1,5 +1,10 @@
-pre { font-family: "Arial Black", sans-serif; }
-pre { font-size: 10pt; }
+.address { 
+    font-family: "Arial Black", sans-serif; font-size: 10pt;  
+} 
+
+.content { 
+    font-family: "Arial Black", sans-serif; font-size: 10pt;  
+}
 
 .message {
     top::0px;
