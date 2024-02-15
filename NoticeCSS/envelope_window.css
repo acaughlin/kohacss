@@ -1,5 +1,13 @@
 .address { 
     font-family: "Arial Black", sans-serif; font-size: 10pt;  
+    position: relative;
+    border 0px;
+    padding 0px;
+    margin 0px;
+    top: 1.25in;
+    left: 0.0in;
+    width: 4.5in;
+    height: 1.125in;
 } 
 
 .content { 
